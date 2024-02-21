@@ -2,6 +2,8 @@
 
 ## Open Sauce Community Project
 
+To be shared
+
 ### Change log
 
 **Version 2.0 release**
