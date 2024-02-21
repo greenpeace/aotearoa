@@ -2,9 +2,9 @@
 
 ## Open Sauce Community Project
 
-To be shared
+- To be shared
 
-Can be found in the upstairs kitchen fridge
+- Can be found in the upstairs kitchen fridge
 
 ### Change log
 
