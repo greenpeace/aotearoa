@@ -6,8 +6,10 @@
 
 **Version 2.0 release**
 
-`Commit made by Jonathan`
+`Commit by Jonathan`
 
 **Version 1.0**
 
 `Initial commit by Kitt`
+
+![Weha Wera](https://version.nz/images/WahaWera.jpg)
