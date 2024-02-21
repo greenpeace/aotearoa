@@ -1,8 +1,10 @@
-# aotearoa
+# Greenpeace Aotearoa Social System
 
 ## Open Sauce Community Project
 
 To be shared
+
+Can be found in the upstairs kitchen fridge
 
 ### Change log
 
