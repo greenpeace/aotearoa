@@ -20,4 +20,3 @@
 
 `Initial commit by Kitt 15-1-2024`
 
-![Weha Wera](https://version.nz/images/WahaWera.jpg)
