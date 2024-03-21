@@ -1,6 +1,4 @@
-# Greenpeace Aotearoa Social System
-
-## Open Sauce Community Project
+# Greenpeace Aotearoa Open Sauce Community Project
 
 - To be shared
 
