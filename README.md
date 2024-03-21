@@ -8,6 +8,12 @@
 
 ### Change log
 
+**Version 3.0 release**
+
+`Commit by Jonathan 21-03-2024`
+
+![Peach Cherry Habanero](https://version.nz/images/peach_cherry_habanero.jpg)
+
 **Version 2.0 release**
 
 `Commit by Jonathan 22-2-2024`
